@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Bruxe
+### 👋 Hi, I'm Bruxe
 
 💻 **Aspiring Software Developer | Web Development Learner | Tech Enthusiast**
 
@@ -11,6 +10,7 @@ I enjoy understanding *how things work under the hood* and writing clean, readab
 - GitHub: **https://github.com/Bruxe-Dev**
 - Email: *mnibeza23@gmail.con*
 - Phone: +250 794889741
+
  =====================
 
 
