@@ -9,7 +9,8 @@ I enjoy understanding *how things work under the hood* and writing clean, readab
 ==========================
 ## 📫 Connect With Me
 - GitHub: **https://github.com/Bruxe-Dev**
-- Email: *mnibeza23@gmail.con*
+- Email: **mnibeza23@gmail.con**
+- LinkedIn: **Bruce NIBEZA MUGISHA**
 - Phone: +250 794889741
 
  ========================
