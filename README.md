@@ -2,7 +2,7 @@
 
 💲🏐Aspiring Software Developer || Web Development Learner || Tech Enthusiast
 
-I’m a passionate learner focused on building strong foundations in **JavaScript**, **web technologies**, and **computer science concepts**.  
+I’m a passionate learner focused on building strong foundations in **JavaScript**, **web technologies**, **AI and Machine Learning conceps**,**Intelligent Robotics** and **computer science concepts**.  
 I enjoy understanding *how things work under the hood* and writing clean, readable code.
 
 ==========================
