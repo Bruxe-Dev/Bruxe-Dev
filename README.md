@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1006&color=36BCF7DF&multiline=true&width=435&lines=Hey+There%2C+I'm+Bruxe+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+I'm+Bruxe+_CodeWolf_)](https://git.io/typing-svg)
 
 💲🏐Aspiring Software Developer || Web Development Learner || Tech Enthusiast
 
