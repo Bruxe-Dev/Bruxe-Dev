@@ -47,7 +47,7 @@ I specialize in creating robust backend systems with a strong interest in machin
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [[Bruce-CodeWolf](https://www.linkedin.com/in/bruce-nibeza-mugisha-9595993a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlISxYA9VSli16AIQFAPylw%3D%3D)](#)
+- 💼 LinkedIn: [[Bruce-CodeWolf](https://www.linkedin.com/in/bruce-nibeza-mugisha-9595993a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlISxYA9VSli16AIQFAPylw%3D%3D)]
 - 📧 Email: [mnibeza23@gmail.com](#)
 
 ---
