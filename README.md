@@ -4,13 +4,6 @@ Hi! I'm a passionate developer focused on **Backend Development**, **Artificial 
 
 ---
 
-## 🖼️ Profile Image
-
-<!-- Add a professional AI/Robotics themed avatar here -->
-![Profile Image](https://via.placeholder.com/150?text=AI+Robotics+Dev)
-
----
-
 ## 💼 About Me
 
 I specialize in creating robust backend systems with a strong interest in machine learning applications and robotics engineering. Always eager to learn and contribute to open-source projects.
