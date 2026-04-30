@@ -34,13 +34,13 @@ I specialize in creating robust backend systems with a strong interest in machin
 ## 📊 GitHub Stats
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bruxe-DevCan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bruxe-Dev&theme=dark)](https://git.io/streak-stats)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruxe-DevCan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruxe-Dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Overall Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruxe-DevCan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruxe-Dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
