@@ -14,9 +14,9 @@
 
 I build intelligent systems that see, think, and learn. From neural networks to real-time inference — I turn cutting-edge research into production-ready AI.
 
-🔭 **Currently working on:** Multimodal AI systems and optimized model inference pipelines  
-🌱 **Currently learning:** Advancend Machine Learning Algorithms and deep learning  
-⚡ **Fun fact:** I once trained a model that learned to predict pizza toppings better than my mom's instincts.
+ **Currently working on:** Multimodal AI systems and optimized model inference pipelines  
+ **Currently learning:** Advancend Machine Learning Algorithms and deep learning  
+ **Fun fact:** I once trained a model that learned to predict pizza toppings better than my mom's instincts.
 
 ---
 
